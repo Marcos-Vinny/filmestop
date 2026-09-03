@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "chore: estrutura inicial do projeto, README e respostas da aula"
+git branch -M main
+git remote add origin <URL_DO_REPOSITORIO>
+git push -u origin main
